@@ -1,4 +1,4 @@
-Here's a possible `README.md` for your repository:
+
 
 ```markdown
 # Scala Spark Email Project
