@@ -4,7 +4,14 @@ This project demonstrates how to send an email using Scala and Spark. It integra
 
 
 
+Before you begin, ensure you have met the following requirements:
 
+- **Java JDK 8+** installed on your machine
+- **Scala 2.12+**
+- **Apache Spark 3.0+**
+- **Maven 3.6+**
+
+**Steps**
 1. **Clone the Repository**
 
    ```bash
