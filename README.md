@@ -1,26 +1,9 @@
 
 
-```markdown
-# Scala Spark Email Project
-
 This project demonstrates how to send an email using Scala and Spark. It integrates Apache Spark for distributed data processing and JavaMail API for sending emails programmatically. 
 
-## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
 
-- **Java JDK 8+** installed on your machine
-- **Scala 2.12+**
-- **Apache Spark 3.0+**
-- **Maven 3.6+**
-- Internet access to download dependencies
-
-## Features
-
-- Send emails using the JavaMail API
-- Integrate with Spark jobs to send notifications
-
-## Setup Instructions
 
 1. **Clone the Repository**
 
